@@ -646,12 +646,12 @@ export default function Index() {
                 <div className="h-8 w-8 rounded-lg flex items-center justify-center">
                   <img
                     src="https://res.cloudinary.com/dwzebmtzq/image/upload/v1754947289/IMG-20250811-WA0047-removebg-preview_chrb8l.png"
-                    alt="hfuturehub logo"
+                    alt="HFUTUREHUB logo"
                     className="h-8 w-8 object-contain"
                   />
                 </div>
                 <span className="text-xl font-bold bg-brand-gradient bg-clip-text text-transparent">
-                  hfuturehub
+                  HFUTUREHUB
                 </span>
               </div>
               <p className="text-muted-foreground mb-4 max-w-md">
@@ -710,7 +710,7 @@ export default function Index() {
             </div>
           </div>
           <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>© 2025 hfuturehub. Building the future of Web3 in Africa.</p>
+            <p>© 2025 HFUTUREHUB. Building the future of Web3 in Africa.</p>
           </div>
         </div>
       </footer>
