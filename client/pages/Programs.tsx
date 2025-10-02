@@ -129,7 +129,7 @@ export default function Programs() {
           )}
 
           <div>
-            <h2 className="text-2xl font-semibold mb-4">Past</h2>
+            <h2 className="text-2xl font-semibold mb-4">Past Programs</h2>
             <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
               {past.map((p) => (
                 <Card
