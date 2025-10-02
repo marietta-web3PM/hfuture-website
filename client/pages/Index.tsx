@@ -91,9 +91,9 @@ export default function Index() {
     },
     {
       icon: TrendingUp,
-      number: "Ongoing",
-      label: "IRL Meetups",
-      description: "Building strong community connections",
+      number: "3 Weeks",
+      label: "Blockchain Bootcamp",
+      description: "Intensive cohort-based training for aspiring builders",
     },
   ];
 
@@ -630,7 +630,7 @@ export default function Index() {
                 variant="outline"
                 className="border-brand-purple text-brand-purple hover:bg-brand-purple/5"
               >
-                Grant Opportunities
+                Support Us
               </Button>
             </div>
           </div>
@@ -703,7 +703,7 @@ export default function Index() {
               <h3 className="font-semibold mb-4">Connect</h3>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>Partnership Inquiries</li>
-                <li>Grant Applications</li>
+                <li>Support Us</li>
                 <li>Community Support</li>
                 <li>Media Kit</li>
               </ul>
