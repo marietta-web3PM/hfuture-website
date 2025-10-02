@@ -333,10 +333,6 @@ export default function Index() {
 
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-20">
           <div className="text-center max-w-4xl mx-auto">
-            <Badge className="mb-6 bg-brand-green-light text-brand-green border-brand-green/20">
-              <MapPin className="w-3 h-3 mr-1" />
-              Based in Nigeria, Impacting Globally
-            </Badge>
             <h1 className="text-4xl md:text-6xl lg:text-7xl text-white font-bold mb-6 leading-tight">
               Empowering Africa's{" "}
               <span className="bg-brand-gradient bg-clip-text text-transparent">
@@ -344,9 +340,7 @@ export default function Index() {
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-white/90 mb-8 leading-relaxed max-w-3xl mx-auto">
-              HfuturelHub is a psycho-tech blockchain educational platform
-              onboarding underrepresented communities into sustainable Web3
-              careers
+              HFUTUREHUB is an edutech platform simplifying blockchain and Web3 complexities into sustainable Web3 career paths.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
@@ -648,11 +642,11 @@ export default function Index() {
           <div className="grid md:grid-cols-4 gap-8">
             <div className="col-span-2">
               <div className="flex items-center space-x-2 mb-4">
-                <div className="h-8 w-8 rounded-lg bg-brand-gradient flex items-center justify-center">
-                  <Zap className="h-5 w-5 text-white" />
+                <div className="h-8 w-8 rounded-lg flex items-center justify-center">
+                  <img src="https://res.cloudinary.com/dwzebmtzq/image/upload/v1754947289/IMG-20250811-WA0047-removebg-preview_chrb8l.png" alt="hfuturehub logo" className="h-8 w-8 object-contain" />
                 </div>
                 <span className="text-xl font-bold bg-brand-gradient bg-clip-text text-transparent">
-                  HFUTURETECH
+                  hfuturehub
                 </span>
               </div>
               <p className="text-muted-foreground mb-4 max-w-md">
@@ -711,7 +705,7 @@ export default function Index() {
             </div>
           </div>
           <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>© 2025 HFUTURETECH. Building the future of Web3 in Africa.</p>
+            <p>© 2025 hfuturehub. Building the future of Web3 in Africa.</p>
           </div>
         </div>
       </footer>
