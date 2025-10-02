@@ -340,7 +340,8 @@ export default function Index() {
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-white/90 mb-8 leading-relaxed max-w-3xl mx-auto">
-              HFUTUREHUB is an edutech platform simplifying blockchain and Web3 complexities into sustainable Web3 career paths.
+              HFUTUREHUB is an edutech platform simplifying blockchain and Web3
+              complexities into sustainable Web3 career paths.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
@@ -643,7 +644,11 @@ export default function Index() {
             <div className="col-span-2">
               <div className="flex items-center space-x-2 mb-4">
                 <div className="h-8 w-8 rounded-lg flex items-center justify-center">
-                  <img src="https://res.cloudinary.com/dwzebmtzq/image/upload/v1754947289/IMG-20250811-WA0047-removebg-preview_chrb8l.png" alt="hfuturehub logo" className="h-8 w-8 object-contain" />
+                  <img
+                    src="https://res.cloudinary.com/dwzebmtzq/image/upload/v1754947289/IMG-20250811-WA0047-removebg-preview_chrb8l.png"
+                    alt="hfuturehub logo"
+                    className="h-8 w-8 object-contain"
+                  />
                 </div>
                 <span className="text-xl font-bold bg-brand-gradient bg-clip-text text-transparent">
                   hfuturehub
