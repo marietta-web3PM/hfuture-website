@@ -127,43 +127,43 @@ export default function Index() {
   // const eventPhotos = [
   //   {
   //     id: 1,
-  //     title: "Web3 Workshop Lagos",
-  //     description: "50+ developers learning blockchain fundamentals",
+  //     title: "Base Batch Developers Workshop ",
+  //     description: "50+ developers learning and deploying on base",
   //     image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop&crop=center",
-  //     date: "March 2024"
+  //     date: "August 2024"
   //   },
   //   {
   //     id: 2,
   //     title: "DeFi Training Session",
   //     description: "Hands-on DeFi development workshop",
   //     image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&h=400&fit=crop&crop=center",
-  //     date: "February 2024"
+  //     date: "August 2025"
   //   },
   //   {
   //     id: 3,
-  //     title: "Community Meetup Abuja",
+  //     title: "Eth campus Tour Awka",
   //     description: "Building connections across Nigeria",
   //     image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=600&h=400&fit=crop&crop=center",
   //     date: "January 2024"
   //   },
   //   {
   //     id: 4,
-  //     title: "Smart Contract Bootcamp",
-  //     description: "Intensive Solidity development program",
+  //     title: "Tech Impact:Campus Initiatives",
+  //     description: "Intensive training and aweraeness on different career paths on chain",
   //     image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=600&h=400&fit=crop&crop=center",
   //     date: "December 2023"
   //   },
   //   {
   //     id: 5,
   //     title: "Women in Web3 Event",
-  //     description: "Empowering female blockchain developers",
+  //     description: "Empowering female blockchain contibutors",
   //     image: "https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?w=600&h=400&fit=crop&crop=center",
   //     date: "November 2023"
   //   },
   //   {
   //     id: 6,
-  //     title: "Hackathon Finals",
-  //     description: "48-hour blockchain innovation challenge",
+  //     title: " self-Hack Finals",
+  //     description: "24-hour tech innovation challenge",
   //     image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&h=400&fit=crop&crop=center",
   //     date: "October 2023"
   //   }
@@ -176,47 +176,47 @@ export default function Index() {
       description: "Hands-on Refi and smart contract development workshop",
       image:
         "https://res.cloudinary.com/dwzebmtzq/image/upload/v1754772075/1754771842832_tf8pob.jpg",
-      date: "February 2024",
+      date: "September 2025",
     },
     {
       id: 2,
-      title: "Web3 Workshop Lagos",
-      description: "50+ developers learning blockchain fundamentals",
+      title: "Base Batch Developers Workshop",
+      description: "50+ developers learning and deplpoying their on base",
       image:
         "https://res.cloudinary.com/dwzebmtzq/image/upload/v1754771459/fec8vt_yfqol0.jpg",
-      date: "March 2024",
+      date: "May 2024",
     },
     {
       id: 3,
-      title: "Community Meetup Abuja",
-      description: "Building connections across Nigeria",
+      title: "ETH Campus Tour Awka",
+      description: "creating awareness and onbording student onchain",
       image:
         "https://res.cloudinary.com/dwzebmtzq/image/upload/v1754771459/IMG-20240316-WA0044_kjd5wp.jpg",
-      date: "January 2024",
+      date: "November 2023",
     },
     {
       id: 4,
-      title: "Smart Contract Bootcamp",
-      description: "Intensive Solidity development program",
+      title: "Tech Impact",
+      description: "Intensive onboarding program",
       image:
         "https://res.cloudinary.com/dwzebmtzq/image/upload/v1754771459/IMG-20240324-WA0036_rowbsd.jpg",
       date: "December 2023",
     },
     {
       id: 5,
-      title: "Women in Web3 Event",
-      description: "Empowering female blockchain developers",
+      title: " Tech Impact",
+      description: "Empowering student Contributors",
       image:
         "https://res.cloudinary.com/dwzebmtzq/image/upload/v1754771459/IMG-20240324-WA0026_vwbj83.jpg",
-      date: "November 2023",
+      date: "December 2023",
     },
     {
       id: 6,
-      title: "Hackathon Finals",
-      description: "48-hour blockchain innovation challenge",
+      title: "Self-Hackathon Finals",
+      description: "24hour personal innovative challenge",
       image:
         "https://res.cloudinary.com/dwzebmtzq/image/upload/v1754771459/IMG-20240324-WA0033_v4t9cm.jpg",
-      date: "October 2023",
+      date: "November 2023",
     },
   ];
 
@@ -247,7 +247,7 @@ export default function Index() {
     <div className="min-h-screen bg-background">
       <SEO
         title="Empowering Africa's Web3 Future - HFUTUREHUB"
-        description="HFUTUREHUB is a psycho-tech blockchain educational platform onboarding underrepresented communities in Nigeria into sustainable Web3 careers. Join 500+ graduates in blockchain education, Web3 development, and community building."
+        description="HFUTUREHUB is a psycho-blocktech educational platform onboarding and guilding individuals into sustainable Web3 careers Path. Join 500+ graduates in blockchain education, Web3 development,Project mangement, Traders and community building."
         keywords="blockchain education Nigeria, Web3 training Africa, cryptocurrency courses, smart contract development, DeFi education, blockchain jobs Nigeria, Web3 careers Africa, HFUTUREHUB, blockchain community Nigeria"
         url="https://hfuturehub.com"
         image="https://res.cloudinary.com/dwzebmtzq/image/upload/v1755030251/1755027563788_zpnz3i.jpg"
