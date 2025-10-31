@@ -360,7 +360,7 @@ export default function Index() {
                 variant="outline"
                 className="border-brand-purple text-brand-purple hover:bg-brand-purple/10 text-lg px-8"
               >
-                <Link to="/events">Our community events</Link>
+                <a href="#community-events">Our community events</a>
               </Button>
             </div>
           </div>
@@ -462,7 +462,7 @@ export default function Index() {
       </section>
 
       {/* IRL Events Gallery Section */}
-      <section className="py-16 lg:py-24 bg-muted/30">
+      <section id="community-events" className="py-16 lg:py-24 bg-muted/30">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
