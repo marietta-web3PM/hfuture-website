@@ -277,7 +277,7 @@ export default function Index() {
                 to="/programs"
                 className="text-sm font-medium hover:text-brand-purple transition-colors"
               >
-                Our programs
+                Academy
               </Link>
               <a
                 href="#impact"
@@ -360,7 +360,7 @@ export default function Index() {
                 variant="outline"
                 className="border-brand-purple text-brand-purple hover:bg-brand-purple/10 text-lg px-8"
               >
-                <Link to="/events">Our events</Link>
+                <Link to="/events">Our community events</Link>
               </Button>
             </div>
           </div>
