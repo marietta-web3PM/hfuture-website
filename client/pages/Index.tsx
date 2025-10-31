@@ -349,7 +349,11 @@ export default function Index() {
                 size="lg"
                 className="bg-brand-gradient hover:brightness-95 text-white text-lg px-8"
               >
-                <a href="https://grow-web3-pro.lovable.app/?utm_source=lovable-editor" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://grow-web3-pro.lovable.app/?utm_source=lovable-editor"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   Academy
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </a>
