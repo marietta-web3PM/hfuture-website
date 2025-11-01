@@ -273,12 +273,14 @@ export default function Index() {
               >
                 Mission
               </a>
-              <Link
-                to="/programs"
+              <a
+                href="https://hfuture.lovable.app"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-sm font-medium hover:text-brand-purple transition-colors"
               >
                 Academy
-              </Link>
+              </a>
               <a
                 href="#impact"
                 className="text-sm font-medium hover:text-brand-purple transition-colors"
