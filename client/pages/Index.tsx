@@ -274,7 +274,7 @@ export default function Index() {
                 Mission
               </a>
               <a
-                href="https://hfacademy.vercel.app/"
+                href="https://learn.hfuturehub.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm font-medium hover:text-brand-purple transition-colors"
@@ -352,7 +352,7 @@ export default function Index() {
                 className="bg-brand-gradient hover:brightness-95 text-white text-lg px-8"
               >
                 <a
-                  href="https://hfacademy.vercel.app/"
+                  href="https://learn.hfuturehub.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
