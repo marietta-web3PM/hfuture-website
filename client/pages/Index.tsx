@@ -546,7 +546,7 @@ export default function Index() {
                       className="w-20 h-20 object-contain grayscale group-hover:grayscale-0 transition-all duration-300"
                       onError={(e) => {
                         const target = e.target as HTMLImageElement;
-                        target.src = `https://via.placeholder.com/100x60/8B5CF6/FFFFFF?text=${partner.name.split(" ")[0]}`;
+                        target.style.display = 'none';
                       }}
                     />
                   </Card>
